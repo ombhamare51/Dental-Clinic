@@ -48,7 +48,7 @@ export default function Navbar() {
           <div className="hidden lg:flex items-center gap-6">
             <div className="flex items-center gap-2">
               <Phone className="text-blue-600" size={20} />
-              <span className="text-[#1e3a5f] font-semibold">+1 75777 41275</span>
+              <span className="text-[#1e3a5f] font-semibold">+91 9423733101</span>
             </div>
             <button className="text-[#1e3a5f] hover:text-blue-600 transition-colors">
               <Menu size={24} />

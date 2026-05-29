@@ -61,7 +61,7 @@ export default function Contact() {
               </div>
               <div>
                 <h4 className="font-bold text-slate-800 mb-1">Phone Number</h4>
-                <p className="text-slate-600 text-sm">+91 98765 43210</p>
+                <p className="text-slate-600 text-sm">+91 9423733101</p>
                 <p className="text-slate-600 text-sm">011-23456789</p>
               </div>
             </div>
@@ -113,7 +113,7 @@ export default function Contact() {
                     <input 
                       type="tel" 
                       className="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-blue-600 focus:border-transparent outline-none transition-all"
-                      placeholder="+91 98765 43210"
+                      placeholder="+91 9423733101"
                     />
                   </div>
                 </div>
