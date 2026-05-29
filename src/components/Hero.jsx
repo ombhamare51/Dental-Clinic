@@ -151,7 +151,7 @@ export default function Hero() {
             </div>
             <div>
               <p className="text-xs text-slate-400 font-medium mb-0.5">Call Us</p>
-              <p className="text-sm text-[#1e3a5f] font-bold">+91 75777 41275</p>
+              <p className="text-sm text-[#1e3a5f] font-bold">+91 9423733101</p>
             </div>
           </div>
 
